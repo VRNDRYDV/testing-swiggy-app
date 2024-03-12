@@ -1,0 +1,4 @@
+node_modules/
+.parche-cache/
+dist/
+
