@@ -1,4 +1,4 @@
 node_modules/
-.parche-cache/
+.parcel-cache/
 dist/
 
